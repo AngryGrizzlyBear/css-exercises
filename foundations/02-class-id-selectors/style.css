@@ -1,0 +1,21 @@
+
+
+.odd-number {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+ }
+
+ .one-odd-guy{
+    font-size: 24px;
+ }
+
+ #blue-guy {
+    color: blue;
+    font-size: 36px;
+ }
+
+ #green-guy {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
